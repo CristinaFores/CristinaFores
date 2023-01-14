@@ -3,13 +3,13 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Cristina Fores, Full Stack Web Developer 💻<br>
   <br>
-  <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" alt="javascript"  width="480" height="270 />
-  <iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
-
+  <img  width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
  </abc>
+
 </h2> 
 <br>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Languages and Tools</h2>
+<br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="45" height="45" />
@@ -26,7 +26,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
 <br>
-
+ 
+<br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 💻: I'm currently working on MERN Stack
@@ -35,7 +36,7 @@
 - 📫 &nbsp;How to reach me: [@cristinafores](https://www.linkedin.com/in/cristina-fores-campos/)
 - 👨‍💻 &nbsp;Read more about my projects at [cristinafores.com](https://app.netlify.com/sites/astounding-croissant-ee6b72/overview)
 <br>
-<br>
+
 <h2 align="left">❤️ Let's get connected:</h2>
 <br>  
 <p align="left">
