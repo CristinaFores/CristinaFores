@@ -30,8 +30,7 @@
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻: I'm currently working on MERN Stack
-- 🌱 &nbsp;I’m currently learning Next
+- 💻 &nbsp;I'm currently working on MERN Stack
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
 - 📫 &nbsp;How to reach me: [@cristinafores](https://www.linkedin.com/in/cristina-fores-campos/)
 - 👨‍💻 &nbsp;Read more about my projects at [cristinafores.com](https://app.netlify.com/sites/astounding-croissant-ee6b72/overview)
