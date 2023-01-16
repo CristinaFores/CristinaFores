@@ -31,6 +31,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 💻 &nbsp;I'm currently working on MERN Stack
+- 🌱 I’m currently learning <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png" alt="vue" width="30" height="20" />
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
 - 📫 &nbsp;How to reach me: [@cristinafores](https://www.linkedin.com/in/cristina-fores-campos/)
 - 👨‍💻 &nbsp;Read more about my projects at [cristinafores.com](https://cristinafores.netlify.app/)
