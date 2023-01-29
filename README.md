@@ -1,32 +1,86 @@
-<h2 align="left">
+
+
  <abc>
-  <br>Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Cristina Fores, Full Stack Web Developer 💻<br>
-  <br>
+ <h2 align="left"> <br>Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Cristina Fores, Full Stack Web Developer 💻</h2> 
   <img  width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
  </abc>
 
-</h2> 
+<h2 align="left">📩 Let's get connected:</h2>
+<br>  
+
+📫 Email *cristinaforescampos1993@gmail.com*
+
 <br>
-<h2> 🚀 &nbsp;Languages and Tools</h2>
+<h2> 💻 &nbsp;Tech Stack</h2>
+<h3 align="left"> 🎨Frontend</h1>
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bem](https://img.shields.io/badge/bem-%23DB7093.svg?style=for-the-badge&logo=bem&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+
+</div>
 <br>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="45" height="45" />
-<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="redux" width="45" height="45" />
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest api" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+<h3 align="left">💫Backend</h1>
+
+<div align="left">
+
+![Nodejs](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge)
+![Multer](https://img.shields.io/badge/multer-%23404d59.svg?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/supabase-%2347A248.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![sharp](https://img.shields.io/badge/sharp-%23404d59.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-%23404d59.svg?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-%23404d59.svg?style=for-the-badge)
+
+</div>
 <br>
- 
+<h3 align="left"> 🧪Testing</h1>
+
+<div align="left">
+
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23000.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/react--testing--library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+
+</div>
+<br>
+<h1 align="left">s🛠️Tools/Platform</h1>
+
+<div align="left">
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CD/CI](https://img.shields.io/badge/cd--ci-%2302569B.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23404d59.svg?style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/lighthouse-%23F7B93E.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github--actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -36,12 +90,3 @@
 - 📫 &nbsp;How to reach me: [@cristinafores](https://www.linkedin.com/in/cristina-fores-campos/)
 - 👨‍💻 &nbsp;Read more about my projects at [cristinafores.com](https://cristinafores.netlify.app/)
 <br>
-
-<h2 align="left">❤️ Let's get connected:</h2>
-<br>  
-<p align="left">
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cristina-fores-campos" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="linkedin"/> </a>
- 
-
-</p>
