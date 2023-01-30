@@ -55,7 +55,7 @@
 
 </div>
 <br>
-<h1 align="left">s🛠️Tools/Platform</h1>
+<h1 align="left">🛠️Tools/Platform</h1>
 
 <div align="left">
 
