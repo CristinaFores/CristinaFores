@@ -111,6 +111,6 @@ Continuously improving performance patterns, data synchronization strategies and
 
 🌐 Portfolio: https://cristinafores.dev<br/>
 💼 LinkedIn: www.linkedin.com/in/cristina-fores<br/>
-📩 Email: cristinaforescampos1992@gmail.com<
+📩 Email: cristinaforescampos1992@gmail.com
 
 <br>
