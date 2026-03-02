@@ -3,15 +3,33 @@
   <br>I'm Cristina Fores <br>
 </h1>
 
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=28&pause=10&color=F7C62D&background=0000AA00&width=435&lines=Frontend+Engineer+%2F+AI+specialist;React+%2F+React+Native+%2F+Next.js;Zustand+%2B+TanStack+Query+" alt="Typing SVG" /> </a>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React+%26+React+Native+Specialist"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+Building scalable web & mobile applications focused on performance, architecture and long-term maintainability.
+</p>
 <br>
 
-<h2 align="center">💻 &nbsp;Tech Stack</h2>
+## 🚀 About Me
 
-<h3 align="center">🎨 Frontend</h3>
-<div align="center">
+- 💻 Frontend Developer specialized in **React & React Native**
+- 📱 Experience building cross-platform mobile and web applications
+- 🔗 Strong background integrating **REST APIs & authentication flows**
+- ⚡ Focused on performance, scalability and clean architecture
+- 🧠 Product-oriented mindset with long-term maintainability in mind
+<br>
+
+<h2 align="start">💻 &nbsp;Tech Stack</h2>
+
+<h3 align="start">🎨 Frontend core</h3>
+<div align="startr">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,15 +48,15 @@
 
 <br>
 
-<h3 align="center">🧩 Backend & APIs (lo que toco)</h3>
-<div align="center">
+<h3 align="startr">🧩 Backend & APIs</h3>
+<div align="startr">
 
 ![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 </div>
-<h3 align="center">🧪 Testing</h3>
-<div align="center">
+<h3 align="startr">🧪 Testing</h3>
+<div align="startr">
 
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -48,8 +66,8 @@
 
 <br>
 
-<h3 align="center">🛠️ Tools / Platform</h3>
-<div align="center">
+<h3 align="startr">🛠️ Tools / Platform</h3>
+<div align="startr">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -67,19 +85,32 @@
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 <br>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 &nbsp;Trabajo en productos reales con React, React Native (Expo) y Next.js (App Router).
-- ⚡ &nbsp;Fuerte en manejo de estado (Zustand), datos asíncronos (TanStack Query) y consumo de APIs (Axios).
-- 🧩 &nbsp;Experiencia integrando auth y flujos de verificación con Firebase.
-- 🔭 &nbsp;Me interesa meter IA en productos de forma práctica (MCP, agentes, tooling) sin humo.
-- 📫 &nbsp;How to reach me:
-  <a href="https://www.linkedin.com/in/cristina-fores-campos/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
-  </a>
+
+## 📌 Current Focus
+
+Currently working on cross-platform product development using:
+
+**React · React Native · Expo · Zustand · TanStack Query**
+
+Continuously improving performance patterns, data synchronization strategies and scalable frontend architectures.
 
 <br>
 
-<h2 align="left">📩 Let's get connected:</h2>
+## 💬 Dev Philosophy
 
-📫 Email <b>cristinaforescampos1992@gmail.com</b>
+<p align="center">
+<i>"Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple."</i><br/>
+— Steve Jobs
+</p>
+
+
+<br>
+
+## 📫 Let's Connect
+
+🌐 Portfolio: https://cristinafores.dev<br/>
+💼 LinkedIn: www.linkedin.com/in/cristina-fores<br/>
+📩 Email: cristinaforescampos1992@gmail.com<
+
+<br>
