@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Cristina Fores 👋</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -8,8 +10,12 @@
 </p>
 
 <p align="center">
-  Frontend developer building at the intersection of design and AI tooling.<br/>
-  I make tools that help developers (and agents) work with real design data — not guesses.
+  Frontend developer who started building interfaces and ended up building the tools<br/>
+  that help build them better. Lately that means working where design, code and AI meet.
+</p>
+
+<p align="center">
+  🌱 Always learning · 🔧 Building useful things · 🤝 <a href="https://cristinafores.dev">cristinafores.dev</a>
 </p>
 
 ---
@@ -79,6 +85,14 @@ npx design-context-bridge
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
+## What I'm into right now
+
+Exploring how AI agents and developer tooling can make the design-to-code workflow
+less manual and more faithful — building [design-context-bridge](https://github.com/CristinaFores/design-context-bridge)
+along the way, and learning in the open as I go.
 
 ---
 
