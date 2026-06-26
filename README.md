@@ -10,12 +10,13 @@
 </p>
 
 <p align="center">
-  Frontend developer who started building interfaces and ended up building the tools<br/>
-  that help build them better. Lately that means working where <b>design, code and AI</b> meet.
+  Frontend developer with a product mindset, who started building interfaces<br/>
+  and ended up building the tools that help build them better.<br/>
+  Lately that means working where <b>design, code and AI</b> meet.
 </p>
 
 <p align="center">
-  🌱 &nbsp;Always learning &nbsp;·&nbsp; 🤖 &nbsp;Into AI agents, MCP & RAG &nbsp;·&nbsp; 🔧 &nbsp;Building useful things
+  🌱 &nbsp;Always learning &nbsp;·&nbsp; 🤖 &nbsp;Into AI agents, MCP & RAG &nbsp;·&nbsp; 🧩 &nbsp;Product-minded
 </p>
 
 ---
@@ -46,12 +47,15 @@ the actual design instead of guessing from pixels.
 
 ## 🤖 AI & Developer Tooling
 
-Where most of my focus is right now — bringing AI into real engineering workflows.
+Where most of my focus is right now — building AI agents, MCP servers and automations,
+and bringing them into real engineering workflows.
 
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-a78bfa?style=for-the-badge&labelColor=18181b)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&labelColor=18181b)
 ![RAG](https://img.shields.io/badge/RAG%20%26%20Memory-7c3aed?style=for-the-badge&labelColor=18181b)
 ![LLM](https://img.shields.io/badge/LLM%20Workflows-6d28d9?style=for-the-badge&labelColor=18181b)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20DB-FFB000?style=for-the-badge&labelColor=18181b)
+![n8n](https://img.shields.io/badge/n8n-low--code%20automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Figma API](https://img.shields.io/badge/Figma%20API-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -66,6 +70,7 @@ Where most of my focus is right now — bringing AI into real engineering workfl
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Native Modules](https://img.shields.io/badge/RN%20Native%20Modules-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -82,14 +87,10 @@ Where most of my focus is right now — bringing AI into real engineering workfl
 ![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### Practices
-![SOLID](https://img.shields.io/badge/SOLID-1f2937?style=for-the-badge&labelColor=18181b)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1f2937?style=for-the-badge&labelColor=18181b)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-1f2937?style=for-the-badge&labelColor=18181b)
-
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
@@ -98,8 +99,8 @@ Where most of my focus is right now — bringing AI into real engineering workfl
 
 ## 🎯 What I'm focused on
 
-Bringing AI into everyday engineering — MCP servers, agents, RAG and memory — without
-letting go of the fundamentals: SOLID, clean architecture and well-tested code.
+Bringing AI into everyday engineering — MCP servers, agents, RAG, memory and automations —
+always with a product mindset and an eye on solid, well-tested code.
 [design-context-bridge](https://github.com/CristinaFores/design-context-bridge) is where
 I'm putting that into practice, building and learning in the open.
 
