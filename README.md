@@ -56,7 +56,6 @@ and bringing them into real engineering workflows.
 ![LLM](https://img.shields.io/badge/LLM%20Workflows-6d28d9?style=for-the-badge&labelColor=18181b)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20DB-FFB000?style=for-the-badge&labelColor=18181b)
 ![n8n](https://img.shields.io/badge/n8n-low--code%20automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Figma API](https://img.shields.io/badge/Figma%20API-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -80,6 +79,12 @@ and bringing them into real engineering workflows.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Testing & Quality
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
