@@ -11,12 +11,11 @@
 
 <p align="center">
   Frontend developer who started building interfaces and ended up building the tools<br/>
-  that help build them better. Lately that means working where design, code and AI meet.
+  that help build them better. Lately that means working where <b>design, code and AI</b> meet.
 </p>
 
 <p align="center">
-  <a href="https://cristinafores.dev"><img src="https://img.shields.io/badge/Portfolio-cristinafores.dev-a78bfa?style=flat-square&labelColor=18181b" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/cristina-fores"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"/></a>
+  🌱 &nbsp;Always learning &nbsp;·&nbsp; 🤖 &nbsp;Into AI agents, MCP & RAG &nbsp;·&nbsp; 🔧 &nbsp;Building useful things
 </p>
 
 ---
@@ -45,6 +44,19 @@ the actual design instead of guessing from pixels.
 
 ---
 
+## 🤖 AI & Developer Tooling
+
+Where most of my focus is right now — bringing AI into real engineering workflows.
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-a78bfa?style=for-the-badge&labelColor=18181b)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&labelColor=18181b)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Memory-7c3aed?style=for-the-badge&labelColor=18181b)
+![LLM](https://img.shields.io/badge/LLM%20Workflows-6d28d9?style=for-the-badge&labelColor=18181b)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Figma API](https://img.shields.io/badge/Figma%20API-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
 ## 🧱 Tech Stack
 
 ### Frontend
@@ -63,38 +75,40 @@ the actual design instead of guessing from pixels.
 ![Zustand](https://img.shields.io/badge/zustand-%23323330.svg?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### AI / Devtools
-![MCP](https://img.shields.io/badge/MCP-%23a78bfa.svg?style=for-the-badge&labelColor=18181b)
-![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Testing
+### Testing & Quality
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Practices
+![SOLID](https://img.shields.io/badge/SOLID-1f2937?style=for-the-badge&labelColor=18181b)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1f2937?style=for-the-badge&labelColor=18181b)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-1f2937?style=for-the-badge&labelColor=18181b)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 ---
 
 ## 🎯 What I'm focused on
 
-Making the design-to-code workflow less manual and more faithful — combining solid
-frontend engineering with AI agents and developer tooling. `design-context-bridge` is
-where I'm putting that into practice, and I build and learn in the open.
+Bringing AI into everyday engineering — MCP servers, agents, RAG and memory — without
+letting go of the fundamentals: SOLID, clean architecture and well-tested code.
+[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) is where
+I'm putting that into practice, building and learning in the open.
 
 ---
 
-## 📫 Let's Connect
+## 💬 Let's connect
 
-<p align="center">
-  <a href="https://cristinafores.dev"><img src="https://img.shields.io/badge/Portfolio-cristinafores.dev-a78bfa?style=for-the-badge&labelColor=18181b" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/cristina-fores"><img src="https://img.shields.io/badge/LinkedIn-Cristina%20Fores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"/></a>
-  <a href="mailto:cristinaforescampos1992@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b" alt="Email"/></a>
-</p>
+I'm always happy to talk about frontend, AI tooling or new ideas — feel free to reach out.
+
+&nbsp;&nbsp;🌐 &nbsp;[cristinafores.dev](https://cristinafores.dev)  
+&nbsp;&nbsp;💼 &nbsp;[linkedin.com/in/cristina-fores](https://www.linkedin.com/in/cristina-fores)  
+&nbsp;&nbsp;✉️ &nbsp;[cristinaforescampos1992@gmail.com](mailto:cristinaforescampos1992@gmail.com)
