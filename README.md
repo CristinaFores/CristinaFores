@@ -17,7 +17,6 @@
 <p align="center">
   <a href="https://cristinafores.dev"><img src="https://img.shields.io/badge/Portfolio-cristinafores.dev-a78bfa?style=flat-square&labelColor=18181b" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/cristina-fores"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"/></a>
-  <a href="https://www.npmjs.com/package/design-context-bridge"><img src="https://img.shields.io/badge/npm-design--context--bridge-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=18181b" alt="npm package"/></a>
 </p>
 
 ---
@@ -32,25 +31,15 @@
 
 > **A screenshot is a guess. This is the real data.**
 
-An independent **MCP server** that gives AI coding agents structured access to Figma design context — exact tokens, spacing, components and interactions — so they build from the real design instead of guessing from pixels.
+An independent **MCP server** that gives AI coding agents structured access to Figma
+design context — real tokens, spacing, components and interactions — so they build from
+the actual design instead of guessing from pixels.
 
-| | |
-|---|---|
-| 🔌 **Two ways to connect** | Plugin mode (live selection from Figma desktop) · REST API mode (any file URL + access token) |
-| 🧰 **20 tools** | Read selection, navigate nodes, derive design systems, export assets, plan component structure |
-| 🤝 **Agent-ready** | Works with Claude Code, Cursor, Windsurf, VS Code — any MCP-compatible agent |
-
-```bash
-npx design-context-bridge
-```
+`TypeScript` · `Node.js` · `MCP` · `Figma`
 
 <p align="left">
-  <a href="https://www.npmjs.com/package/design-context-bridge"><img src="https://img.shields.io/npm/v/design-context-bridge?color=a78bfa&labelColor=18181b&style=for-the-badge" alt="npm"/></a>
-  <a href="https://github.com/CristinaFores/design-context-bridge"><img src="https://img.shields.io/badge/source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="GitHub"/></a>
-  <a href="https://github.com/CristinaFores/design-context-bridge/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-4ade80?labelColor=18181b&style=for-the-badge" alt="MIT"/></a>
+  <a href="https://github.com/CristinaFores/design-context-bridge"><img src="https://img.shields.io/badge/Learn%20more-View%20on%20GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="Learn more"/></a>
 </p>
-
-`TypeScript` · `Node.js` · `MCP` · `Figma REST API`
 
 <sub>Independent developer tool — not affiliated with or endorsed by Figma, Inc.</sub>
 
