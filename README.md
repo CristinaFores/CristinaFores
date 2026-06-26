@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  🌱 Always learning · 🔧 Building useful things · 🤝 <a href="https://cristinafores.dev">cristinafores.dev</a>
+  <a href="https://cristinafores.dev"><img src="https://img.shields.io/badge/Portfolio-cristinafores.dev-a78bfa?style=flat-square&labelColor=18181b" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/cristina-fores"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"/></a>
+  <a href="https://www.npmjs.com/package/design-context-bridge"><img src="https://img.shields.io/badge/npm-design--context--bridge-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=18181b" alt="npm package"/></a>
 </p>
 
 ---
 
-## Featured Project
-
-### [design-context-bridge](https://github.com/CristinaFores/design-context-bridge)
+## 🚀 Featured Project — design-context-bridge
 
 <p align="center">
   <a href="https://github.com/CristinaFores/design-context-bridge">
@@ -30,27 +30,33 @@
   </a>
 </p>
 
-An independent MCP server that gives AI agents structured access to Figma design context — real tokens, spacing, components and interactions, not screenshot guesses.
+> **A screenshot is a guess. This is the real data.**
 
-**Two modes:** plugin (live selection from Figma desktop) · REST API (any file URL + access token)  
-**20 tools** — read selection, navigate nodes, derive design systems, export assets, plan component structure  
-**Compatible with:** Claude Code, Cursor, Windsurf, VS Code, any MCP-supported agent
+An independent **MCP server** that gives AI coding agents structured access to Figma design context — exact tokens, spacing, components and interactions — so they build from the real design instead of guessing from pixels.
+
+| | |
+|---|---|
+| 🔌 **Two ways to connect** | Plugin mode (live selection from Figma desktop) · REST API mode (any file URL + access token) |
+| 🧰 **20 tools** | Read selection, navigate nodes, derive design systems, export assets, plan component structure |
+| 🤝 **Agent-ready** | Works with Claude Code, Cursor, Windsurf, VS Code — any MCP-compatible agent |
 
 ```bash
 npx design-context-bridge
 ```
 
+<p align="left">
+  <a href="https://www.npmjs.com/package/design-context-bridge"><img src="https://img.shields.io/npm/v/design-context-bridge?color=a78bfa&labelColor=18181b&style=for-the-badge" alt="npm"/></a>
+  <a href="https://github.com/CristinaFores/design-context-bridge"><img src="https://img.shields.io/badge/source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="GitHub"/></a>
+  <a href="https://github.com/CristinaFores/design-context-bridge/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-4ade80?labelColor=18181b&style=for-the-badge" alt="MIT"/></a>
+</p>
+
 `TypeScript` · `Node.js` · `MCP` · `Figma REST API`
 
-[![npm](https://img.shields.io/npm/v/design-context-bridge?color=a78bfa&labelColor=18181b)](https://www.npmjs.com/package/design-context-bridge)
-[![MIT](https://img.shields.io/badge/license-MIT-4ade80?labelColor=18181b)](https://github.com/CristinaFores/design-context-bridge/blob/main/LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/CristinaFores/design-context-bridge/ci.yml?branch=main&labelColor=18181b)](https://github.com/CristinaFores/design-context-bridge/actions)
-
-> Independent developer tool — not affiliated with or endorsed by Figma, Inc.
+<sub>Independent developer tool — not affiliated with or endorsed by Figma, Inc.</sub>
 
 ---
 
-## Tech Stack
+## 🧱 Tech Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -88,14 +94,18 @@ npx design-context-bridge
 
 ---
 
-## What I'm into right now
+## 🎯 What I'm focused on
 
-Exploring how AI agents and developer tooling can make the design-to-code workflow
-less manual and more faithful — building [design-context-bridge](https://github.com/CristinaFores/design-context-bridge)
-along the way, and learning in the open as I go.
+Making the design-to-code workflow less manual and more faithful — combining solid
+frontend engineering with AI agents and developer tooling. `design-context-bridge` is
+where I'm putting that into practice, and I build and learn in the open.
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
-🌐 [cristinafores.dev](https://cristinafores.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/cristina-fores) · 📩 cristinaforescampos1992@gmail.com
+<p align="center">
+  <a href="https://cristinafores.dev"><img src="https://img.shields.io/badge/Portfolio-cristinafores.dev-a78bfa?style=for-the-badge&labelColor=18181b" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/cristina-fores"><img src="https://img.shields.io/badge/LinkedIn-Cristina%20Fores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn"/></a>
+  <a href="mailto:cristinaforescampos1992@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b" alt="Email"/></a>
+</p>
