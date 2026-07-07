@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
+    <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=a78bfa&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+MCP+%26+Devtools+%7C+Design+%C3%97+Code"
       alt="Typing SVG"
     />
@@ -15,13 +15,31 @@
   Lately that means working where <b>design, code and AI</b> meet.
 </p>
 
+<br/>
+
+## 🎧 AuraLang — real-time audio translation in your browser
+
 <p align="center">
-  🌱 &nbsp;Always learning &nbsp;·&nbsp; 🤖 &nbsp;Into AI agents, MCP & RAG &nbsp;·&nbsp; 🧩 &nbsp;Product-minded
+  <a href="https://auralang.cristinafores.dev/">
+    <img src="https://raw.githubusercontent.com/CristinaFores/auralang/main/icons/chrome/capturas.jpg" alt="AuraLang side panel — live translation in light and dark mode" width="100%"/>
+  </a>
 </p>
 
----
+A Chrome extension that listens to any tab, transcribes on-device with **Whisper**,
+translates on the fly and speaks the result aloud — **no API key, no account, no backend**.
+Live karaoke-style transcript, light & dark themes, English & Spanish UI.
 
-## 🚀 Featured Project — design-context-bridge
+`TypeScript` · `React` · `Whisper` · `Manifest V3` · `Web Speech API`
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/pakdegbkjgibdjkpdniabdocffiejolo"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=18181b" alt="Install from the Chrome Web Store"/></a>
+</p>
+
+[auralang.cristinafores.dev](https://auralang.cristinafores.dev/) · [Source on GitHub](https://github.com/CristinaFores/auralang)
+
+<br/>
+
+## 🧩 design-context-bridge — live Figma context for AI agents
 
 <p align="center">
   <a href="https://github.com/CristinaFores/design-context-bridge">
@@ -37,18 +55,13 @@ the actual design instead of guessing from pixels.
 
 `TypeScript` · `Node.js` · `MCP` · `Figma`
 
-<p align="left">
-  <a href="https://github.com/CristinaFores/design-context-bridge"><img src="https://img.shields.io/badge/Learn%20more-View%20on%20GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="Learn more"/></a>
-</p>
+[View on GitHub](https://github.com/CristinaFores/design-context-bridge)
 
 <sub>Independent developer tool — not affiliated with or endorsed by Figma, Inc.</sub>
 
----
+<br/>
 
 ## 🤖 AI & Developer Tooling
-
-Where most of my focus is right now — building AI agents, MCP servers and automations,
-and bringing them into real engineering workflows.
 
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-a78bfa?style=for-the-badge&labelColor=18181b)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&labelColor=18181b)
@@ -111,8 +124,9 @@ and bringing them into real engineering workflows.
 
 Bringing AI into everyday engineering — MCP servers, agents, RAG, memory and automations —
 always with a product mindset and an eye on solid, well-tested code.
-[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) is where
-I'm putting that into practice, building and learning in the open.
+[AuraLang](https://github.com/CristinaFores/auralang) and
+[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) are where
+I'm putting that into practice, building and shipping in the open.
 
 ---
 
@@ -120,6 +134,4 @@ I'm putting that into practice, building and learning in the open.
 
 I'm always happy to talk about frontend, AI tooling or new ideas — feel free to reach out.
 
-&nbsp;&nbsp;🌐 &nbsp;[cristinafores.dev](https://cristinafores.dev)  
-&nbsp;&nbsp;💼 &nbsp;[linkedin.com/in/cristina-fores](https://www.linkedin.com/in/cristina-fores)  
-&nbsp;&nbsp;✉️ &nbsp;[cristinaforescampos1992@gmail.com](mailto:cristinaforescampos1992@gmail.com)
+🌐 [cristinafores.dev](https://cristinafores.dev) · 💼 [linkedin.com/in/cristina-fores](https://www.linkedin.com/in/cristina-fores) · ✉️ [cristinaforescampos1992@gmail.com](mailto:cristinaforescampos1992@gmail.com)
