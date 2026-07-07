@@ -59,15 +59,77 @@ the actual design instead of guessing from pixels.
 
 <br/>
 
-## 🧱 What I work with
+## 🤖 AI & Developer Tooling
 
-- **Frontend** — TypeScript, React, Next.js, React Native (Expo), Sass/BEM
-- **AI & devtools** — MCP servers, AI agents, RAG & memory, LLM workflows, n8n, Figma API
-- **Backend** — Node.js, Express, Firebase, AWS
-- **Testing & quality** — Jest, Testing Library, Playwright, Cypress, SonarQube
-- **Tools** — Git, GitHub Actions, Docker, Vercel, Figma, Sentry
+Where most of my focus is right now — building AI agents, MCP servers and automations,
+and bringing them into real engineering workflows.
 
-<br/>
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-a78bfa?style=for-the-badge&labelColor=18181b)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&labelColor=18181b)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Memory-7c3aed?style=for-the-badge&labelColor=18181b)
+![LLM](https://img.shields.io/badge/LLM%20Workflows-6d28d9?style=for-the-badge&labelColor=18181b)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20DB-FFB000?style=for-the-badge&labelColor=18181b)
+![n8n](https://img.shields.io/badge/n8n-low--code%20automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Figma API](https://img.shields.io/badge/Figma%20API-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling & State
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/bem-%23DB7093.svg?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/zustand-%23323330.svg?style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context%20API-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/testing%20library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
+## 🎯 What I'm focused on
+
+Bringing AI into everyday engineering — MCP servers, agents, RAG, memory and automations —
+always with a product mindset and an eye on solid, well-tested code.
+[AuraLang](https://github.com/CristinaFores/auralang) and
+[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) are where
+I'm putting that into practice, building and shipping in the open.
+
+---
 
 ## 💬 Let's connect
 
