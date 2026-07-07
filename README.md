@@ -21,11 +21,37 @@
 
 ---
 
-## 🚀 Featured Project — design-context-bridge
+## 🚀 Featured Projects
+
+### 🎧 AuraLang — real-time audio translation for any browser tab
+
+<p align="center">
+  <a href="https://auralang.cristinafores.dev/">
+    <img src="https://raw.githubusercontent.com/CristinaFores/auralang/main/icons/chrome/hero-dark.png" alt="AuraLang — real-time tab audio translation Chrome extension" width="100%"/>
+  </a>
+</p>
+
+> **Watch the screen, not the subtitles.**
+
+A **Chrome extension** that listens to any tab, transcribes on-device with **Whisper**,
+translates on the fly and speaks the result aloud — no API key, no account, no backend.
+Live karaoke-style transcript, light/dark themes, English & Spanish UI.
+
+`TypeScript` · `React` · `Whisper` · `Manifest V3` · `Web Speech API`
+
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/pakdegbkjgibdjkpdniabdocffiejolo"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=18181b" alt="Install from the Chrome Web Store"/></a>
+  &nbsp;
+  <a href="https://auralang.cristinafores.dev/"><img src="https://img.shields.io/badge/Website-auralang.cristinafores.dev-a78bfa?style=for-the-badge&labelColor=18181b" alt="AuraLang website"/></a>
+  &nbsp;
+  <a href="https://github.com/CristinaFores/auralang"><img src="https://img.shields.io/badge/Source-View%20on%20GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="View source on GitHub"/></a>
+</p>
+
+### 🧩 design-context-bridge — MCP server for Figma design context
 
 <p align="center">
   <a href="https://github.com/CristinaFores/design-context-bridge">
-    <img src="https://raw.githubusercontent.com/CristinaFores/design-context-bridge/main/.github/cover.png" alt="design-context-bridge — independent MCP server for Figma design context" width="100%"/>
+    <img src="https://raw.githubusercontent.com/CristinaFores/design-context-bridge/main/.github/cover.png" alt="design-context-bridge — independent MCP server for Figma design context" width="60%"/>
   </a>
 </p>
 
@@ -111,8 +137,9 @@ and bringing them into real engineering workflows.
 
 Bringing AI into everyday engineering — MCP servers, agents, RAG, memory and automations —
 always with a product mindset and an eye on solid, well-tested code.
-[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) is where
-I'm putting that into practice, building and learning in the open.
+[AuraLang](https://github.com/CristinaFores/auralang) and
+[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) are where
+I'm putting that into practice, building and shipping in the open.
 
 ---
 
