@@ -47,6 +47,8 @@ Live karaoke-style transcript, light & dark themes, English & Spanish UI.
   </a>
 </p>
 
+> **A screenshot is a guess. This is the real data.**
+
 An independent **MCP server** that gives AI coding agents structured access to Figma
 design context — real tokens, spacing, components and interactions — so they build from
 the actual design instead of guessing from pixels.
@@ -60,9 +62,6 @@ the actual design instead of guessing from pixels.
 <br/>
 
 ## 🤖 AI & Developer Tooling
-
-Where most of my focus is right now — building AI agents, MCP servers and automations,
-and bringing them into real engineering workflows.
 
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-a78bfa?style=for-the-badge&labelColor=18181b)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&labelColor=18181b)
