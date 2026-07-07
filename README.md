@@ -17,46 +17,45 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## 🎧 AuraLang — real-time audio translation in your browser
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://auralang.cristinafores.dev/">
+    <img src="https://raw.githubusercontent.com/CristinaFores/auralang/main/icons/chrome/capturas.jpg" alt="AuraLang side panel — live translation in light and dark mode" width="100%"/>
+  </a>
+</p>
 
-### 🎧 AuraLang
+A Chrome extension that listens to any tab, transcribes on-device with **Whisper**,
+translates on the fly and speaks the result aloud — **no API key, no account, no backend**.
+Live karaoke-style transcript, light & dark themes, English & Spanish UI.
 
-<a href="https://auralang.cristinafores.dev/">
-  <img src="https://raw.githubusercontent.com/CristinaFores/auralang/main/icons/chrome/hero-dark.png" alt="AuraLang — real-time tab audio translation" width="100%"/>
-</a>
+`TypeScript` · `React` · `Whisper` · `Manifest V3` · `Web Speech API`
 
-Real-time audio translation for any browser tab. Transcribes on-device with **Whisper**, translates and speaks the result aloud — no API key, no account, no backend.
+<p>
+  <a href="https://chromewebstore.google.com/detail/pakdegbkjgibdjkpdniabdocffiejolo"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=18181b" alt="Install from the Chrome Web Store"/></a>
+</p>
 
-`TypeScript` · `React` · `Whisper` · `Manifest V3`
+[auralang.cristinafores.dev](https://auralang.cristinafores.dev/) · [Source on GitHub](https://github.com/CristinaFores/auralang)
 
-**[Install from the Chrome Web Store →](https://chromewebstore.google.com/detail/pakdegbkjgibdjkpdniabdocffiejolo)**
+<br/>
 
-[Website](https://auralang.cristinafores.dev/) · [Source](https://github.com/CristinaFores/auralang)
+## 🧩 design-context-bridge — live Figma context for AI agents
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/CristinaFores/design-context-bridge">
+    <img src="https://raw.githubusercontent.com/CristinaFores/design-context-bridge/main/.github/cover.png" alt="design-context-bridge — independent MCP server for Figma design context" width="100%"/>
+  </a>
+</p>
 
-### 🧩 design-context-bridge
-
-<a href="https://github.com/CristinaFores/design-context-bridge">
-  <img src="https://raw.githubusercontent.com/CristinaFores/design-context-bridge/main/.github/cover.png" alt="design-context-bridge — independent MCP server for Figma design context" width="100%"/>
-</a>
-
-An independent **MCP server** that gives AI coding agents structured access to Figma design context — real tokens, spacing and components — so they build from the actual design instead of guessing from pixels.
+An independent **MCP server** that gives AI coding agents structured access to Figma
+design context — real tokens, spacing, components and interactions — so they build from
+the actual design instead of guessing from pixels.
 
 `TypeScript` · `Node.js` · `MCP` · `Figma`
 
-**[View on GitHub →](https://github.com/CristinaFores/design-context-bridge)**
+[View on GitHub](https://github.com/CristinaFores/design-context-bridge)
 
-<sub>Not affiliated with or endorsed by Figma, Inc.</sub>
-
-</td>
-</tr>
-</table>
+<sub>Independent developer tool — not affiliated with or endorsed by Figma, Inc.</sub>
 
 <br/>
 
@@ -70,16 +69,8 @@ An independent **MCP server** that gives AI coding agents structured access to F
 
 <br/>
 
-## 🎯 What I'm focused on
-
-Bringing AI into everyday engineering — MCP servers, agents, RAG, memory and automations —
-always with a product mindset and an eye on solid, well-tested code.
-[AuraLang](https://github.com/CristinaFores/auralang) and
-[design-context-bridge](https://github.com/CristinaFores/design-context-bridge) are where
-I'm putting that into practice, building and shipping in the open.
-
-<br/>
-
 ## 💬 Let's connect
+
+I'm always happy to talk about frontend, AI tooling or new ideas — feel free to reach out.
 
 🌐 [cristinafores.dev](https://cristinafores.dev) · 💼 [linkedin.com/in/cristina-fores](https://www.linkedin.com/in/cristina-fores) · ✉️ [cristinaforescampos1992@gmail.com](mailto:cristinaforescampos1992@gmail.com)
